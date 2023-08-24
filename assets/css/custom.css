@@ -1,3 +1,29 @@
 .carousel-nav .slick-slide {
     margin-right: 20px; /* Adjusts spacing to the right of each item. Change '10px' to your preferred spacing. */
 }
+/* Custom Carousel Navigation Arrows Styling */
+
+/* Set the background to a circle and adjust positioning */
+.carousel-nav .slick-prev, .carousel-nav .slick-next {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 20px; /* Adjust as needed */
+    height: 20px; /* Adjust as needed */
+    border-radius: 100%; /* This will make it a circle */
+    line-height: 20px; /* This should be equal to the height to vertically center the arrow */
+    text-align: center;
+}
+
+/* Adjust the arrow icon */
+.carousel-nav .slick-prev:before, .carousel-nav .slick-next:before {
+    color: #fff;
+    font-size: 20px; /* Adjust size as necessary */
+}
+
+/* Hover effect */
+.carousel-nav .slick-prev:hover, .carousel-nav .slick-next:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.carousel-nav .slick-prev:hover:before, .carousel-nav .slick-next:hover:before {
+    color: #1d1849;
+}
