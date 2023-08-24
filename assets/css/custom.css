@@ -27,3 +27,9 @@
 .carousel-nav .slick-prev:hover:before, .carousel-nav .slick-next:hover:before {
     color: #1d1849;
 }
+
+/* Hide navigation arrows for carousels with class carousel-center */
+.carousel-center .slick-prev, 
+.carousel-center .slick-next {
+    display: none !important; 
+}
