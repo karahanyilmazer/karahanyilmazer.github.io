@@ -1,19 +1,37 @@
 $(document).ready(function(){
-    $('.carousel-center').slick({
+  $('.carousel-center').slick({
+      asNavFor: '.carousel-nav',
         slidesToShow: 1,
         slidesToScroll: 1,
         arrows: true,
         fade: true,
         autoplay: true,
-        autoplaySpeed: 2000,
-        asNavFor: '.carousel-nav'
+        autoplaySpeed: 3000,
       });
       $('.carousel-nav').slick({
-        slidesToShow: 3,
-        slidesToScroll: 1,
         asNavFor: '.carousel-center',
-        dots: true,
         centerMode: true,
-        focusOnSelect: true
+        centerPadding: '60px',
+        slidesToShow: 3,
+        responsive: [
+          {
+            breakpoint: 768,
+            settings: {
+              arrows: false,
+              centerMode: true,
+              centerPadding: '40px',
+              slidesToShow: 3
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              arrows: false,
+              centerMode: true,
+              centerPadding: '40px',
+              slidesToShow: 1
+            }
+          }
+        ]
       });
 });
