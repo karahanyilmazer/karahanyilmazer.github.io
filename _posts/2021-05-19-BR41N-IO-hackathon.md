@@ -3,7 +3,15 @@ layout: post
 title: BR41N.IO Hackathon - 3rd Place Winner
 subtitle: My first hands-on experience with brain-computer interfaces
 thumbnail-img: /assets/img/bci_multiplay.png
-tags: [python, EEG, neurotechnology, brain-computer interface, machine learning]
+tags:
+  [
+    python,
+    EEG,
+    neurotechnology,
+    brain-computer interface,
+    BCI,
+    machine learning,
+  ]
 ---
 
 While preparing for an upcoming internship, I enrolled in the "Human-centered Neuroengineering: Cybathlon" course offered by Nicolas Berberich. A notable aspect of this course was participating in the BR41N.IO Hackathon, a segment of the BCI & Neurotechnology Spring School 2021.
