@@ -11,7 +11,7 @@ Preparing to apply to the master's in Neuroengineering, which has been my dream 
 
 ![Neurorehabilitation Group Picture](/assets/img/neurorehabilitation.jpeg)
 
-Our project was inspired by the [phenomenal paper](https://www.science.org/doi/10.1126/scirobotics.aag3296) by Surjo R. Soekadar and colleagues. With the help of my teammates Christian Ritter, Miriam Senne, and Onur İçin, we ventured to design a tendon-driven 3D-printed hand exoskeleton. Our exoskeleton aids with pinch-grasp movements, mirroring the device used in the referenced study.
+Our project was inspired by the [phenomenal paper](https://www.science.org/doi/10.1126/scirobotics.aag3296) by Surjo R. Soekadar and colleagues (just like for my [bachelor's thesis](2022-01-17-bachelors-thesis.md)). With the help of my teammates Christian Ritter, Miriam Senne, and Onur İçin, we ventured to design a tendon-driven 3D-printed hand exoskeleton. Our exoskeleton aids with pinch-grasp movements, mirroring the device used in the referenced study.
 
 Yet, we wanted to take it a step further. By using cost-effective materials, we made our version more accessible. Moreover, our device gives vibrotactile feedback—meaning it vibrates based on the strength of the grip. Overall, our system could be beneficial for stroke patients with limited hand mobility and those who may have lost their touch sensation due to peripheral neuropathy.
 
