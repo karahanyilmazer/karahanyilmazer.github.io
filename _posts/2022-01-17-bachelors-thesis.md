@@ -4,7 +4,14 @@ title: A Hybrid EEG/EOG BCI Using Consumer-Grade EEG
 subtitle: The thesis that piqued my interest in academia
 thumbnail-img: /assets/img/mi_brain.png
 tags:
-  [brain-computer interface, BCI, EEG, neuroengineering, neurorehabilitation]
+  [
+    brain-computer interface,
+    BCI,
+    EEG,
+    neuroengineering,
+    neurorehabilitation,
+    motor imagery,
+  ]
 comments: true
 ---
 
