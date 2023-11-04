@@ -18,6 +18,10 @@ My deep interest lies in understanding the brain's complexities. Though trained 
 
 I am passionate about learning and expressing myself creatively. I began with calligraphy, later transitioning into 3D modelling. While I still see myself as a novice in this realm, I deeply value the process and joy of artistic expression. I invite you to view some of my work on my <a href="../index.html">home page</a>. As I continue to grow and develop in my field, I aspire to integrate these artistic elements into my work in meaningful ways.
 
+## Other Interests
+
+Of course, my passions extend beyond my professional pursuits! Some other things I love are cooking, tending to my plants, and listening to tons of music. Stay tuned for future posts where I'll share some of my culinary creations and plant-care adventures. And if you're curious about the playlists that fuel my day, feel free to follow me on Spotify in the meantime.
+
 ## Got Questions?
 
 Curiosity didn't just kill the cat; it made everything more exciting! If you're itching to know more, just drop me a line below.
