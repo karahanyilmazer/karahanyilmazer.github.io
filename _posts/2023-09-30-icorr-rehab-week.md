@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Force Dynamics of Hand Grasping
-subtitle: Building affordable neurotechnologies for neurological patients
+subtitle: A trip to Singapore
 thumbnail-img: /assets/img/rehab_week_group_pic.jpeg
 tags:
   [
