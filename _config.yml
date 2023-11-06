@@ -21,6 +21,9 @@ author: Karahan Yılmazer
 
 navbar-links:
   About Me: "aboutme"
+  Other Interests:
+    - Cooking: "cooking"
+    - Plants: "plants"
   # Resources:
   # - Beautiful Jekyll: "https://beautifuljekyll.com"
   # - Learn markdown: "https://www.markdowntutorial.com/"
@@ -290,3 +293,4 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+remote_theme: daattali/beautiful-jekyll@6.0.1
