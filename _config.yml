@@ -21,9 +21,9 @@ author: Karahan Yılmazer
 
 navbar-links:
   About Me: "aboutme"
-  Other Interests:
-    - Cooking: "cooking"
-    - Plants: "plants"
+  # Other Interests:
+  # - Cooking: "cooking"
+  # - Plants: "plants"
   # Resources:
   # - Beautiful Jekyll: "https://beautifuljekyll.com"
   # - Learn markdown: "https://www.markdowntutorial.com/"
