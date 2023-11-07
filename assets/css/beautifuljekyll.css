@@ -441,7 +441,14 @@ footer .footer-custom-content {
 /* --- Post preview (feed) --- */
 
 .posts-list {
-    margin: 0;
+  margin: 2.9rem 0 0;
+  position: relative;
+}
+
+@media (min-width: 1200px){
+  .posts-list {
+      margin: 7rem 0 0;
+}
 }
 
 .post-preview {
