@@ -59,7 +59,11 @@
 <div class="intro-header no-img">
   <div class="container-md">
     <div class="row">
+      {% if paginator.page == 1 %}
+      <div class="col">
+      {% else %}
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      {% endif %}
         <div class="{{ include.type }}-heading">
           <h1>{% if page.title %}{{ page.title | strip_html }}{% else %}<br/>{% endif %}</h1>
           {% if page.subtitle %}
