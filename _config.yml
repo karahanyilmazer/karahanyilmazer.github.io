@@ -20,6 +20,7 @@ author: Karahan Yılmazer
 ###############################################
 
 navbar-links:
+  CV: /assets/pdf/CV-Karahan_Yilmazer.pdf
   About Me: "aboutme"
   # Other Interests:
   # - Cooking: "cooking"
@@ -27,7 +28,6 @@ navbar-links:
   # Resources:
   # - Beautiful Jekyll: "https://beautifuljekyll.com"
   # - Learn markdown: "https://www.markdowntutorial.com/"
-  CV: /assets/pdf/CV-Karahan_Yilmazer.pdf
 
 ################
 # --- Logo --- #
