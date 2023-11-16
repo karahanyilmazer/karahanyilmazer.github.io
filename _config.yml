@@ -20,8 +20,11 @@ author: Karahan Yılmazer
 ###############################################
 
 navbar-links:
-  CV: /assets/pdf/CV-Karahan_Yilmazer.pdf
+  Gallery:
+    - 3D Modelling: "3d-modelling-gallery"
+    - Python Workshop Posters: "python-workshop-gallery"
   About Me: "aboutme"
+  CV: /assets/pdf/CV-Karahan_Yilmazer.pdf
   # Other Interests:
   # - Cooking: "cooking"
   # - Plants: "plants"

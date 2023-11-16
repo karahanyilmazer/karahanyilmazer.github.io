@@ -1,35 +1,64 @@
 .carousel-nav .slick-slide {
-    margin-right: 20px; /* Adjusts spacing to the right of each item. Change '10px' to your preferred spacing. */
+  margin-right: 20px; /* Adjusts spacing to the right of each item. Change '10px' to your preferred spacing. */
 }
 /* Custom Carousel Navigation Arrows Styling */
 
 /* Set the background to a circle and adjust positioning */
-.carousel-nav .slick-prev, .carousel-nav .slick-next {
-    background-color: rgba(0, 0, 0, 0.5);
-    width: 20px; /* Adjust as needed */
-    height: 20px; /* Adjust as needed */
-    border-radius: 100%; /* This will make it a circle */
-    line-height: 20px; /* This should be equal to the height to vertically center the arrow */
-    text-align: center;
+.carousel-nav .slick-prev,
+.carousel-nav .slick-next {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 20px; /* Adjust as needed */
+  height: 20px; /* Adjust as needed */
+  border-radius: 100%; /* This will make it a circle */
+  line-height: 20px; /* This should be equal to the height to vertically center the arrow */
+  text-align: center;
 }
 
 /* Adjust the arrow icon */
-.carousel-nav .slick-prev:before, .carousel-nav .slick-next:before {
-    color: #fff;
-    font-size: 20px; /* Adjust size as necessary */
+.carousel-nav .slick-prev:before,
+.carousel-nav .slick-next:before {
+  color: #fff;
+  font-size: 20px; /* Adjust size as necessary */
 }
 
 /* Hover effect */
-.carousel-nav .slick-prev:hover, .carousel-nav .slick-next:hover {
-    background-color: rgba(0, 0, 0, 0.7);
+.carousel-nav .slick-prev:hover,
+.carousel-nav .slick-next:hover {
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
-.carousel-nav .slick-prev:hover:before, .carousel-nav .slick-next:hover:before {
-    color: #1d1849;
+.carousel-nav .slick-prev:hover:before,
+.carousel-nav .slick-next:hover:before {
+  color: #1d1849;
 }
 
 /* Hide navigation arrows for carousels with class carousel-center */
-.carousel-center .slick-prev, 
+.carousel-center .slick-prev,
 .carousel-center .slick-next {
-    display: none !important; 
+  display: none !important;
+}
+
+.sticky-sidebar {
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 5%; /* Set to the distance from the top you want the sidebar to start sticking */
+  overflow-y: auto; /* Optional: Add scroll to the sidebar if content is long */
+  border: 3px solid black;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center; /* Align items from the start */
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+}
+.gallery img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+.gallery-item {
+  width: 30%;
 }
