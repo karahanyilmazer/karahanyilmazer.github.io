@@ -43,7 +43,6 @@
   position: sticky;
   top: 5%; /* Set to the distance from the top you want the sidebar to start sticking */
   overflow-y: auto; /* Optional: Add scroll to the sidebar if content is long */
-  border: 3px solid black;
 }
 
 .gallery {
@@ -51,8 +50,6 @@
   flex-wrap: wrap;
   gap: 20px;
   justify-content: center; /* Align items from the start */
-  /* margin-left: auto; */
-  /* margin-right: auto; */
 }
 .gallery img {
   width: 100%;
