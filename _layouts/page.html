@@ -6,12 +6,10 @@ layout: base
 <div class="container-fluid" role="main">
   <div class="row">
     <!-- Sticky Sidebar Column -->
-    <div class="offset-md-1 col-md-4">
-      {% include header.html type="page" %} {% include sidebar.html %}
-    </div>
+    <div class="offset-md-1 col-md-4">{% include sidebar.html %}</div>
 
     <!-- Main Content Column -->
-    <div class="offset-md-1 col-md-5">
+    <div class="offset-md-1 col-md-5 sticky-sidebar">
       {% else %}
       <div
         class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}"
