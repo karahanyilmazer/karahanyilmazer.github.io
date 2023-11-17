@@ -1,7 +1,0 @@
-.sticky-sidebar {
-    position: sticky;
-    position: -webkit-sticky; /* For Safari */
-    top: 0; /* Set to the distance from the top you want the sidebar to start sticking */
-    max-height: 100vh;
-    overflow-y: auto; /* Makes the sidebar scrollable if the content is too tall */
-  }
