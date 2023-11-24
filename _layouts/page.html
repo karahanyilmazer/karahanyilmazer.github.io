@@ -2,7 +2,8 @@
 layout: base
 ---
 
-{% if paginator.page == 1 %}
+{% if page.url != '/' and page.url != '/index.html' %} {% include header.html
+type="page" %} {% endif %} {% if paginator.page == 1 %}
 <div class="container-fluid" role="main">
   <div class="row">
     <!-- Sticky Sidebar Column -->
