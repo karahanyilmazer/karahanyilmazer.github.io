@@ -3,7 +3,7 @@ body.lb-disable-scrolling {
 }
 
 .lightboxOverlay {
-  position: absolute;
+  position: fixed; /* Changed from absolute to fixed */
   top: 0;
   left: 0;
   z-index: 9999;
@@ -14,8 +14,9 @@ body.lb-disable-scrolling {
 }
 
 .lightbox {
-  position: absolute;
+  position: fixed;
   left: 0;
+  top: 30 !important;
   width: 100%;
   z-index: 10000;
   text-align: center;
@@ -91,10 +92,11 @@ body.lb-disable-scrolling {
 
 .lb-nav a {
   outline: none;
-  background-image: url('data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
+  background-image: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
 }
 
-.lb-prev, .lb-next {
+.lb-prev,
+.lb-next {
   height: 100%;
   cursor: pointer;
   display: block;
