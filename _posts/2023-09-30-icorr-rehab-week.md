@@ -20,7 +20,7 @@ Our project went through a lot of phases. The initial research question was whet
 
 So, we started making changes to the project. In the end, our project turned out to be about force dynamics of normal and exoskeleton-assisted grasping while lifting an object with varying weights. Furthermore, we looked at the "virtual grasping" setting, where the weight of the object was constant, but the required force to lift it in a virtual setting varied. We collected data from experiments and surveys on the usability of our system.
 
-After much effort, our paper was accepted at [RehabWeek 2023](https://www.rehabweek.org/) in Singapore. It wasn't my first publication, but it was the first publication which I actually got to present with my co-authors during the poster session. Jose even got to present his paper on stage, which was another great moment for all of us. Here is the [poster](/assets/pdf/rehab_week_poster-Karahan_Yilmazer.pdf) we presented and our [paper](/assets/pdf/rehab_week_paper-Karahan_Yilmazer.pdf) to be published:
+After much effort, our paper was accepted at [RehabWeek 2023](https://www.rehabweek.org/) in Singapore. It wasn't my first publication, but it was the first publication which I actually got to present with my co-authors during the poster session. Jose even got to present his paper on stage, which was another great moment for all of us. Here is the [poster](/assets/pdf/rehab_week_poster-Karahan_Yilmazer.pdf) we presented and our [published paper](https://doi.org/10.1109/ICORR58425.2023.10304698):
 
 <iframe src="/assets/pdf/rehab_week_merged-Karahan_Yilmazer.pdf" width="100%" height="1000px" style="border-radius: 15px;"></iframe>
 
