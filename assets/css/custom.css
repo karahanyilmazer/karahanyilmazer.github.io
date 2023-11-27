@@ -15,13 +15,21 @@
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
-  justify-content: center; /* Align items from the start */
+  justify-content: center;
 }
-.gallery img {
-  width: 100%;
-  height: auto;
-  border-radius: 5px;
-}
+
 .gallery-item {
   width: 30%;
+  display: flex; /* Make the gallery item a flex container */
+  align-items: center; /* Center-align the flex items vertically */
+  justify-content: center; /* Center-align the flex items horizontally */
+  flex-direction: column; /* Stack flex items vertically */
+}
+
+.gallery img {
+  width: auto; /* Adjust width to be auto to maintain aspect ratio */
+  max-width: 100%; /* Ensure image does not exceed its container */
+  height: auto;
+  border-radius: 5px;
+  object-fit: cover; /* This will cover the area of the container without stretching */
 }
