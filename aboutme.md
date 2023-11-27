@@ -16,7 +16,7 @@ My deep interest lies in understanding the brain's complexities. Though trained 
 
 ## Artistic Pursuits
 
-I am passionate about learning and expressing myself creatively. I began with calligraphy, later transitioning into 3D modelling. While I still see myself as a novice in this realm, I deeply value the process and joy of artistic expression. I invite you to view some of my work on my <a href="../index.html">home page</a>. As I continue to grow and develop in my field, I aspire to integrate these artistic elements into my work in meaningful ways.
+I am passionate about learning and expressing myself creatively. I began with calligraphy, later transitioning into 3D modelling. While I still see myself as a novice in this realm, I deeply value the process and joy of artistic expression. I invite you to view some of my work in my [Gallery](#navbarDropdown). As I continue to grow and develop in my field, I aspire to integrate these artistic elements into my work in meaningful ways.
 
 ## Other Interests
 
@@ -24,4 +24,4 @@ Of course, my passions extend beyond my professional pursuits! Some other things
 
 ## Got Questions?
 
-Curiosity didn't just kill the cat; it made everything more exciting! If you're itching to know more, just drop me a line below.
+Curiosity killed the cat, but I am assuming you aren't one! If you're itching to know more, just drop me a line below.
