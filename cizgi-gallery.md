@@ -17,7 +17,7 @@ Our high school magazine was being revitalized by a group of very passionate stu
 
 <div class="gallery-item"><a href="\..\assets\img\cizgi_logo_on_paper.jpg" data-lightbox="3d-gallery" data-title="Initial ideas for the new logo."><img src="\..\assets\img\cizgi_logo_on_paper.jpg" alt="Initial ideas for the new logo."></a></div>
 
-<div class="gallery-item"><a href="\..\assets\img\old_cizgi_logo.jpg" data-lightbox="3d-gallery" data-title="One of many covers of our school magazine with the old logo."><img src="\..\assets\img\old_cizgi_logo.jpg" alt="One of many covers of our school magazine with the old logo."></a></div>
+<div class="gallery-item"><a href="\..\assets\img\old_cizgi_cover.jpg" data-lightbox="3d-gallery" data-title="One of many covers of our school magazine with the old logo."><img src="\..\assets\img\old_cizgi_cover.jpg" alt="One of many covers of our school magazine with the old logo."></a></div>
 
 <div class="gallery-item"><a href="\..\assets\img\cizgi_cover_1.png" data-lightbox="3d-gallery" data-title="The first cover of our school magazine with the new logo."><img src="\..\assets\img\cizgi_cover_1.png" alt="The first cover of our school magazine with the new logo."></a></div>
 
