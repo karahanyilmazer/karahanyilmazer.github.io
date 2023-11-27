@@ -23,6 +23,7 @@ navbar-links:
   Gallery:
     - 3D Modelling: "3d-modelling-gallery"
     - Python Workshop Posters: "python-workshop-gallery"
+    - Çizgi Logo: "cizgi-gallery"
   About Me: "aboutme"
   CV: /assets/pdf/CV-Karahan_Yilmazer.pdf
   # Other Interests:
