@@ -1,9 +1,8 @@
 ---
 layout: gallery
 title: 3D Modeling
+gallery_text: Inspired by numerous digital artists I followed online, I've long aspired to create similar digital artwork. When I finally took the first steps to learn 3D modeling in Blender I came up with these creations. Hope you enjoy them as much as I do!
 ---
-
-Inspired by numerous digital artists I followed online, I've long aspired to create similar digital artwork. When I finally took the first steps to learn 3D modeling in Blender I came up with these creations. Hope you enjoy them as much as I do!
 
 <div class="gallery-item"><a href="\..\assets\img\lighthouse.png" data-lightbox="3d-gallery" data-title="Lonely lighthouse in a starry night"><img src="\..\assets\img\lighthouse.png" alt="Image of a lighthouse."></a></div>
 

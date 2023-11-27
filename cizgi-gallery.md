@@ -1,9 +1,8 @@
 ---
 layout: gallery
 title: Çizgi Logo Design
+gallery_text: Our high school magazine was being revitalized by a group of very passionate students. I was asked to redesign the logo named "Çizgi", translating to "line" in Turkish. While staying true to the essence of the old logo, I came up with a new logo which not only honored its legacy but also seamlessly enhanced every edition of the magazine with its refreshed appearance.
 ---
-
-Our high school magazine was being revitalized by a group of very passionate students. I was asked to redesign the logo named "Çizgi", translating to "line" in Turkish. While staying true to the essence of the old logo, I came up with a new logo which not only honored its legacy but also seamlessly enhanced every edition of the magazine with its refreshed appearance.
 
 <div class="gallery-item"><a href="\..\assets\img\old_cizgi_logo.jpeg" data-lightbox="3d-gallery" data-title="Old logo."><img src="\..\assets\img\old_cizgi_logo.jpeg" alt="Old logo."></a></div>
 
