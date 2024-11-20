@@ -21,9 +21,10 @@ author: Karahan Yılmazer
 
 navbar-links:
   Gallery:
+    - Photography: "photography-gallery"
     - 3D Modelling: "3d-modelling-gallery"
-    - Python Workshop Posters: "python-workshop-gallery"
     - Çizgi Logo: "cizgi-gallery"
+    - Python Workshop Posters: "python-workshop-gallery"
   About Me: "aboutme"
   CV: /assets/pdf/CV-Karahan_Yilmazer.pdf
   # Other Interests:
