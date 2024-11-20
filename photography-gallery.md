@@ -92,7 +92,7 @@ gallery_text: Midway through my 3D modeling journey, a senior digital artist sha
 
 <div class="gallery-item"><a href="\..\assets\img\photography\MAYBE THERE IS NO STORM.png" data-lightbox="photography-gallery" data-title="MAYBE THERE IS NO STORM"><img src="\..\assets\img\photography\MAYBE THERE IS NO STORM.png" alt="Image of a small boat in the middle of the sea."></a></div>
 
-<div class="gallery-item"><a href="\..\assets\img\photography\DIVIDED BUT SALTY.png" data-lightbox="photography-gallery" data-title="DIVIDED BUT SALTY"><img src="\..\assets\img\photography\DIVIDED BUT SALTY.png" alt="Image of a beach with two different sides."></a></div>
+<div class="gallery-item"><a href="\..\assets\img\photography\DIVIDED BUT STILL SALTY.png" data-lightbox="photography-gallery" data-title="DIVIDED BUT STILL SALTY"><img src="\..\assets\img\photography\DIVIDED BUT STILL SALTY.png" alt="Image of a beach with two different sides."></a></div>
 
 <div class="gallery-item"><a href="\..\assets\img\photography\COURAGEOUS.png" data-lightbox="photography-gallery" data-title="COURAGEOUS"><img src="\..\assets\img\photography\COURAGEOUS.png" alt="Image of a statue from down below."></a></div>
 
@@ -116,7 +116,7 @@ gallery_text: Midway through my 3D modeling journey, a senior digital artist sha
 
 <div class="gallery-item"><a href="\..\assets\img\photography\HOME.png" data-lightbox="photography-gallery" data-title="HOME"><img src="\..\assets\img\photography\HOME.png" alt="Image of a pair sitting by a tree."></a></div>
 
-<div class="gallery-item"><a href="\..\assets\img\photography\FILL IN.png" data-lightbox="photography-gallery" data-title="FILL IN"><img src="\..\assets\img\photography\FILL IN.png" alt="Image of a statue covered by the leaves of a tree."></a></div>
+<div class="gallery-item"><a href="\..\assets\img\photography\NATURE'S EMBRACE.png" data-lightbox="photography-gallery" data-title="NATURE'S EMBRACE"><img src="\..\assets\img\photography\NATURE'S EMBRACE.png" alt="Image of a statue covered by the leaves of a tree."></a></div>
 
 <div class="gallery-item"><a href="\..\assets\img\photography\GROW TOGETHER.png" data-lightbox="photography-gallery" data-title="GROW TOGETHER"><img src="\..\assets\img\photography\GROW TOGETHER.png" alt="Image of a woman sitting by a tree."></a></div>
 
