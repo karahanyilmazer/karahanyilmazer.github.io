@@ -225,8 +225,8 @@ img {
   }
 
   .navbar-expand-xl .navbar-nav .nav-link {
-    padding-left: 0.9375rem;
-    padding-right: 0.9375rem;
+    padding-left: 1.7375rem;
+    padding-right: 1.7375rem;
   }
 
   .navbar-expand-xl .navbar-nav .nav-item:not(.dropdown):last-child .nav-link {
