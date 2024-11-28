@@ -2,7 +2,7 @@
 layout: post
 title: Predicting a Person’s Age From Their Brain Data
 subtitle: The hackathon where I learned many things about
-thumbnail-img: /assets/img/aging_brain.png
+thumbnail-img: /assets/img/aging_brain.jpg
 tags:
   [
     EEG,
